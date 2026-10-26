@@ -7,7 +7,7 @@
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	"features": {
-		"ghcr.io/rocker-org/devcontainer-features/r-rig:1": {
+		"ghcr.io/rocker-org/devcontainer-features/r-rig:2": {
 				"version": "none",
 				"installJupyterlab": true
 		}
